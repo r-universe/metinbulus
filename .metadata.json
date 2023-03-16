@@ -1,0 +1,14 @@
+[
+  {
+    "package": "cosa",
+    "oncran": true
+  },
+  {
+    "package": "irtDemo",
+    "oncran": true
+  },
+  {
+    "package": "PowerUpR",
+    "oncran": true
+  }
+]
