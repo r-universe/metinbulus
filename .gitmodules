@@ -18,3 +18,8 @@
 	url = https://github.com/metinbulus/powerupr
 	shallow = true
 	registered = true
+[submodule "pwrss"]
+	path = pwrss
+	url = https://github.com/cran/pwrss
+	shallow = true
+	registered = true
