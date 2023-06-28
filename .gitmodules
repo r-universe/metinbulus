@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cosa"]
 	path = cosa
 	url = https://github.com/metinbulus/cosa
-	shallow = true
-	registered = true
 [submodule "irtDemo"]
 	path = irtDemo
 	url = https://github.com/metinbulus/irtdemo
-	shallow = true
-	registered = true
 [submodule "PowerUpR"]
 	path = PowerUpR
 	url = https://github.com/metinbulus/powerupr
-	shallow = true
-	registered = true
 [submodule "pwrss"]
 	path = pwrss
 	url = https://github.com/cran/pwrss
-	shallow = true
-	registered = true
