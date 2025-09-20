@@ -13,4 +13,4 @@
 	url = https://github.com/metinbulus/irtdemo
 [submodule "pwrss"]
 	path = pwrss
-	url = https://github.com/metinbulus/pwrss
+	url = https://github.com/cran/pwrss
